@@ -1,0 +1,13 @@
+Rent Report, 2020-2021
+Average Rent: $1087.00
+Highest Rent: $1450.00, 95 Second St.
+Lowest Rent: $870.00, 2184 Broadway
+Average Rent Change: $+93.00
+Highest Rent Change: $+250.00, 143 Holmes Dr.
+Lowest Rent Change: $-70, 2184 Broadway
+Least Affordable Neighborhood: Boardwalk (Avg. Rent: $1200.00)
+Most Affordable Neighborhood: Eastside (Avg. Rent: $1023.33)
+Rent Changes by Neighborhood:
+	Boardwalk (+$150.00)
+	Westside (+$125.00)
+	Eastside ($-6.67)
